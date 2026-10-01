@@ -1,6 +1,6 @@
 # CognifyAI
 
-[Introduction website](https://cccwww456.github.io/CognifyAI-2.0/%E4%BB%8B%E7%BB%8D%E7%BD%91%E7%AB%99/) · [Product website](https://cccwww456.github.io/CognifyAI-2.0/%E4%BA%A7%E5%93%81%E7%BD%91%E7%AB%99/) · [中文](README.md)
+[Introduction website](https://cccwww456.github.io/Cognify-AI-website-/%E4%BB%8B%E7%BB%8D%E7%BD%91%E7%AB%99/) · [Product website](https://cccwww456.github.io/Cognify-AI-website-/%E4%BA%A7%E5%93%81%E7%BD%91%E7%AB%99/) · [中文](README.md)
 
 I built CognifyAI to help people get better at working with AI: explaining what they need, working through a task, and deciding what to keep or improve in the result.
 
@@ -22,6 +22,7 @@ The “登录” button currently opens the product; there is no account login o
 
 The project has already been tried by real people in internal testing, and their feedback has informed changes. It has not only been tested with simulated services.
 
+The October 1, 2026 technical report also records 30 automated regression groups and 3 focused checks passing in JSDOM with mock services. These checks complement user testing; they do not establish compatibility with every device or API provider.
 
 See [Plans](ROADMAP.md), [Testing and feedback](TESTING.md), and [Publishing instructions](DEPLOYMENT.md).
 
