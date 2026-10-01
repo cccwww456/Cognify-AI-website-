@@ -22,7 +22,6 @@ The “登录” button currently opens the product; there is no account login o
 
 The project has already been tried by real people in internal testing, and their feedback has informed changes. It has not only been tested with simulated services.
 
-The October 1, 2026 technical report also records 30 automated regression groups and 3 focused checks passing in JSDOM with mock services. These checks complement user testing; they do not establish compatibility with every device or API provider.
 
 See [Plans](ROADMAP.md), [Testing and feedback](TESTING.md), and [Publishing instructions](DEPLOYMENT.md).
 
